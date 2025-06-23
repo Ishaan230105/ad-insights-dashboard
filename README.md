@@ -1,6 +1,10 @@
 # 📊 Ad Insights Dashboard
 A **Streamlit-based interactive dashboard** for analyzing ad campaign performance, forecasting revenue, detecting anomalies, and predicting Click-Through Rate (CTR) using machine learning.
 
+## 🌐 Live Demo
+
+Check out the live app here: https://ad-insights-dashboard-yifxw9rzqtdtmu5zyf7ctn.streamlit.app/
+
 ## 🚀 Features
 
 - ✅ Interactive filters (Location, Ad Type)
