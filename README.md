@@ -34,3 +34,12 @@ You can use the following commands to get a local copy of this project up and ru
 Once the dependencies are installed, you can launch the Streamlit app by running:
 - streamlit run dashboard.py
 
+## 🖼️ Screenshot
+
+### Dashboard
+![Dashboard Screenshot](screenshots/Screenshot.png)
+### CTR Prediction Output
+![Conversion Rate By Location](screenshots/Screenshot(262).png)
+### Auto Insights
+![Auto Insights](screenshots/Screenshot(264).png)
+
